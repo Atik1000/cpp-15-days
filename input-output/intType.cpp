@@ -203,6 +203,13 @@
 //     printf("%o\n",number);
 // }
 
+
+
+
+
+
+
+
 // Q:sum of number
 
 // #include<bits/stdc++.h>
