@@ -261,8 +261,8 @@
 // int main(){
 //     int Fish,Feed;
 //     cin >> Feed>> Fish;
-//     if(Feed>=Fish*3){
-//         printf("  Feed number: %d \t Fish number : %d ",Feed,Fish);
+//     if(Fish*3<=Feed){
+//         printf(" successfully  Feed number: %d \t Fish number : %d ",Feed,Fish);
 //     }
 // }
 
@@ -277,3 +277,5 @@
 //         printf(" Go picnic Seat number: %d \t Person number : %d ",Seat,Person);
 //     }
 // }
+
+
