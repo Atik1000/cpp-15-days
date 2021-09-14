@@ -134,3 +134,75 @@
 //     }
 
 // }
+
+// Q: 2 divisor and 3 divisor 
+// #include <bits/stdc++.h>
+// using namespace std;
+// int main(){
+//     int n,num;
+//     cin>>n;
+//     for(int i=1;i<=n;i++){
+//         cin>>num;
+//         if(num%2==0){
+//                cout<<"divisor of number:"<<num/2<<endl;
+//         }
+//         else{
+//             cout<<"divisor of number:"<<num*3+1<<endl;
+//         }
+//     }
+// }
+
+
+// Q: operation of number
+
+// #include <bits/stdc++.h>
+// using namespace std;
+
+// int main(){
+//     int num,count=0;
+//     cin >> num;
+//     while(1)
+//     {
+//       if(num==1)
+//       {
+//         break;
+//       }
+//       else if(num%2==0){
+//           num=num/2;
+//       }
+//       else{
+//           num=num*3+1;
+//       }
+//       count++;
+//     }
+//         cout <<"Total count:"<<count<<endl;
+// }
+
+// Q: Most frequently value
+
+
+// Q: 3 divisor
+// #include <bits/stdc++.h>
+// using namespace std;
+// int main(){
+//     int n,number,count=0;
+//     cin>>n;
+//     for(int i=1;i<=n;i++){
+//         cin>>number;
+//         if(number%3==0){
+//             count++;
+//         }
+//     }
+//     cout<<count<<endl;
+// }
+
+
+        
+
+
+
+
+
+
+
+

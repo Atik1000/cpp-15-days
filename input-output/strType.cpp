@@ -88,12 +88,12 @@
 //     printf(" A      A \n");
 // }
 
-// Q: sum of 3 digit 
+// Q: sum of 3 digit
 
 // #include<bits/stdc++.h>
 // using namespace std;
 // int main(){
-//     int num; 
+//     int num;
 //     cin >> num;
 
 //     cout<<num/100+num/10%10+num%10;

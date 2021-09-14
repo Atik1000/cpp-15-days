@@ -174,33 +174,33 @@
 //     }
 // }
 
-#include <bits/stdc++.h>
-using namespace std;
-int main()
-{
-    char school_name;
-    int shift;
-    cin >> school_name >> shift;
-    if (school_name == 'A')
-    {
-        if (shift == 1)
-        {
-            cout << "yellow";
-        }
-        if (shift == 2)
-        {
-            cout << "green";
-        }
-    }
-    if (school_name == 'B')
-    {
-        if (shift == 1)
-        {
-            cout << "blue";
-        }
-        if (shift == 2)
-        {
-            cout << "red";
-        }
-    }
-}
+// #include <bits/stdc++.h>
+// using namespace std;
+// int main()
+// {
+//     char school_name;
+//     int shift;
+//     cin >> school_name >> shift;
+//     if (school_name == 'A')
+//     {
+//         if (shift == 1)
+//         {
+//             cout << "yellow";
+//         }
+//         if (shift == 2)
+//         {
+//             cout << "green";
+//         }
+//     }
+//     if (school_name == 'B')
+//     {
+//         if (shift == 1)
+//         {
+//             cout << "blue";
+//         }
+//         if (shift == 2)
+//         {
+//             cout << "red";
+//         }
+//     }
+// }
